@@ -1,4 +1,6 @@
 ---
-title: tags
-date: 2020-12-30 16:38:24
+layout: "tags"
+title: "Tags"
+description: "Hey, this is Tags."
+header-img: "/img/header_img/tag.png"
 ---
